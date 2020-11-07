@@ -9,6 +9,7 @@ List of resources and notes for passing the Certified Kubernetes Application Dev
 - [Excellent CKAD Exercises to complement this guide](https://github.com/dgkanatsios/CKAD-exercises)
 - [More CKAD Practice Questions](https://dev.to/liptanbiswas/ckad-practice-questions-4mpn)
 - [TMUX Cheat Sheet - TMUX is useful, especially for CKA](https://gist.github.com/MohamedAlaa/2961058)
+- [Practice Exam for Certified Kubernetes Application Developer (CKAD) Certification](https://www.katacoda.com/fabito/scenarios/ckad)
 
 
 ## Current Kubernetes Version (EXAM)
