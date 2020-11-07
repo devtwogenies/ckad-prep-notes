@@ -25,6 +25,7 @@ To set nano as your editor for 'kubectl edit'
 export KUBE_EDITOR="nano"
 ```
 - [Nano text editor tricks (for CKAD exam)](https://medium.com/@pranay.shah/nano-text-editor-tricks-for-ckad-exam-3b07f80dfe77)
+- [Useful aliases for kubectl] (https://github.com/ahmetb/kubectl-aliases)
 
 ## Outline
 Right now there are five primary sections to this document.
