@@ -25,6 +25,15 @@ To set nano as your editor for 'kubectl edit'
 ```
 export KUBE_EDITOR="nano"
 ```
+Some aliases for an exam
+```
+alias k='kubectl'
+alias kg='kubectl get'
+alias krm='kubectl delete'
+alias kru='kubectl run'
+alias kruyaml='kubectl run --dry-run -o yaml'
+```
+
 - [Nano text editor tricks (for CKAD exam)](https://medium.com/@pranay.shah/nano-text-editor-tricks-for-ckad-exam-3b07f80dfe77)
 - [Useful aliases for kubectl](https://github.com/ahmetb/kubectl-aliases)
 
