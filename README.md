@@ -27,6 +27,7 @@ export KUBE_EDITOR="nano"
 ```
 Some aliases for an exam
 ```
+alias n='nano -cmilET4'
 alias k='kubectl'
 alias kg='kubectl get'
 alias krm='kubectl delete'
