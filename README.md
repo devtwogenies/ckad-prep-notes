@@ -31,7 +31,7 @@ alias k='kubectl'
 alias kg='kubectl get'
 alias krm='kubectl delete'
 alias kru='kubectl run'
-alias kruyaml='kubectl run --dry-run -o yaml'
+alias kruyaml='kubectl run --dry-run=client -o yaml'
 ```
 
 - [Nano text editor tricks (for CKAD exam)](https://medium.com/@pranay.shah/nano-text-editor-tricks-for-ckad-exam-3b07f80dfe77)
