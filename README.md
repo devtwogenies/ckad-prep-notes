@@ -29,6 +29,7 @@ Some aliases for an exam
 ```
 alias n='nano -cmilET4'
 alias k='kubectl'
+alias ka='kubectl apply -f'
 alias kg='kubectl get'
 alias krm='kubectl delete'
 alias kru='kubectl run'
